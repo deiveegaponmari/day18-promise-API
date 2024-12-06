@@ -1,0 +1,13 @@
+.header{
+    color:white;
+    background-color: lightseagreen;
+    text-align: center;
+    padding: 10px;
+}
+.custom_content{
+    display: flex;
+
+}
+.sidebar{
+    width:350px;
+}
